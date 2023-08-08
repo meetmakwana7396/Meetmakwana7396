@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetmakwana7396&label=Profile%20views&color=0e75b6&style=flat" alt="meetmakwana7396" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetmakwana7396" alt="meetmakwana7396" /></a> </p>

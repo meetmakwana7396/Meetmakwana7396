@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetmakwana7396&label=Profile%20views&color=0e75b6&style=flat" alt="meetmakwana7396" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=meetmakwana7396&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 - 🔭 I’m currently working on **Improving My UX and Frontend Skills**
 
 - 🌱 I’m currently learning **Adonis and Nest**
@@ -14,6 +8,9 @@
 - 💬 Ask me about **Javascript, React and NextJS**
 
 - 📫 How to reach me **makwnameet7301@gmail.com**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=meetmakwana7396&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetmakwana7396&show_icons=true&theme=onedark&locale=en" alt="meetmakwana7396" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetmakwana7396&theme=dark" alt="meetmakwana7396" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetmakwana7396&label=Profile%20views&color=0e75b6&style=flat" alt="meetmakwana7396" /> </p>
+

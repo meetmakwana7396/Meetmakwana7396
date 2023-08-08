@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=meetmakwana7396&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **Garage Management System**
+- 🔭 I’m currently working on **Improving My UX and Frontend Skills**
 
 - 🌱 I’m currently learning **Adonis and Nest**
 

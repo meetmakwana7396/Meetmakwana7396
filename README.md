@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Improving My UX and Frontend Skills**
+- 🔭 I’m currently working on **Improving UX and Frontend Skills**
 
 - 🌱 I’m currently learning **Adonis and Nest**
 
